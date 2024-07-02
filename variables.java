@@ -8,6 +8,7 @@ public class variables
         System.out.println(variables.b);//static variable are accessed using class name
         variables x= new variables();//to accessed instance variable we have to create obj.
         System.out.println(x.c);
+        System.out.ptintln("update...");
 
 
     }
